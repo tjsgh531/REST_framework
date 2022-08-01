@@ -1,0 +1,20 @@
+Quickstart
+https://leffept.tistory.com/296
+
+tutorial 1 : Serialization
+https://leffept.tistory.com/298?category=950490
+
+tutorial 2 : Request and Response
+https://leffept.tistory.com/300?category=950490
+
+tutorial 3 : class-based Views
+https://leffept.tistory.com/302?category=950490
+
+tutorial 4 : Authentication & Permissions
+https://leffept.tistory.com/303?category=950490
+
+tutorial 5 : Relationships & Hyperlinked APIs
+https://leffept.tistory.com/305?category=950490
+
+tutorial 5 : ViewSets & Routers
+https://leffept.tistory.com/308?category=950490
